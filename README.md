@@ -111,3 +111,5 @@ sensor:
 
 [releases-shield]: https://img.shields.io/github/release/Danielhiversen/home_assistant_weather_data.svg?style=popout
 [releases]: https://github.com/Danielhiversen/home_assistant_weather_data/releases
+
+
